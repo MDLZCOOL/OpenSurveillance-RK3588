@@ -1,0 +1,3 @@
+[submodule "rknn3588-yolov8"]
+	path = rknn3588-yolov8
+	url = https://github.com/MDLZCOOL/rknn3588-yolov8
